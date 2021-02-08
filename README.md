@@ -8,4 +8,4 @@
 
 Adding a change for the live demo in class.
 
-My favorite tool that we discussed during class tonight was pylint
+My favorite tool that we discussed during class tonight was pylint.
